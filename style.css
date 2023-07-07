@@ -1,0 +1,16 @@
+table, th, td{
+    /* border: 4mm ridge1px solid black; */
+    border: 4mm ridge rgb(15, 15, 71);
+    padding: 20px;
+    border-collapse: collapse;
+    margin: 10px;
+    background-color: cadetblue;
+    color: aliceblue;
+    }
+
+caption{
+    color: blueviolet;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
